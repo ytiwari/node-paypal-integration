@@ -9,8 +9,8 @@ var paypal = require('paypal-rest-sdk');
 // configure paypal with the credentials you got when you created your paypal app
 paypal.configure({
   'mode': 'sandbox', //sandbox or live 
-  'client_id': 'AZuTWNzm_uVoWU8RUXtuVegdMqAp_9YYJD09Bh8XZX2cRVrgc37l9QX6wIsro2qIzppP_YFDiRmWaf2D', // please provide your client id here 
-  'client_secret': 'EMXVmJ-B_KynDYFX6LXyP-yoMCe-aekeJv98qAaz3pdjMcnmH1TrqT9ydMxFSsftGJRYlq9XXZlrhodx' // provide your client secret here 
+  'client_id': 'xxxxx', // please provide your client id here 
+  'client_secret': 'xxx' // provide your client secret here 
 });
 
 
